@@ -1,0 +1,9 @@
+networkx
+pandas
+numpy
+matplotlib
+seaborn
+vaderSentiment
+scikit-learn
+scipy
+jupyter
