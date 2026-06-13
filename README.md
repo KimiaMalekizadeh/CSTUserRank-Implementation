@@ -21,25 +21,6 @@ CSTUserRank ranks influential users in social networks by combining:
 
 ---
 
-## How to Run
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/CSTUserRank.git
-cd CSTUserRank
-```
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Open the notebook
-```bash
-jupyter notebook notebooks/CSTUserRank_RealData.ipynb
-```
-
----
 
 ##  Dataset
 **Music Community Weblog** from MetaFilter dataset
