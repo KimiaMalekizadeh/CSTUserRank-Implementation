@@ -19,8 +19,6 @@ CSTUserRank ranks influential users in social networks by combining:
 
 ---
 
----
-
 
 ##  Dataset
 **Music Community Weblog** from MetaFilter dataset
